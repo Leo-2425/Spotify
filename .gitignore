@@ -1,0 +1,9 @@
+node_modules
+.env
+.vscode
+.prettierrc.json
+config.js
+node_modules/
+.env
+node_modules/
+.env
